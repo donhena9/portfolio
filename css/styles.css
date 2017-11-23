@@ -1695,8 +1695,12 @@ a, a:visited {
     font-family: "Gilroy ExtraBold", Arial, sans-serif;
     font-size: 16px;
     line-height: 18.3px;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.21em;
     background-color: transparent;
+}
+
+.catalog_pagination div {
+    margin-right: -12px;
 }
 
 .btn_number {
@@ -1722,7 +1726,7 @@ a, a:visited {
 }
 
 .pagination_next {
-    padding: 25px 30px 25px 30px;
+    padding: 26px 27px 25px 30px;
 }
 
 .pagination_next:hover,
