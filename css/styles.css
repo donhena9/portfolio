@@ -1306,7 +1306,7 @@ a, a:visited {
 
 .price_min, .price_max {
     position: absolute;
-    top: 64px;
+    bottom: 33px;
 }
 
 .price_min {
