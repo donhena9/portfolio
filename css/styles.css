@@ -1255,6 +1255,7 @@ a, a:visited {
 
 .catalog_filters {
     position: relative;
+    background-color: #efefef;
 }
 
 .catalog_filters > fieldset {
@@ -1754,6 +1755,7 @@ a, a:visited {
 }
 
 .catalog_pagination {
+    background-color: #ebebeb;
     width: 760px;
     margin-left: 71px;
     margin-bottom: 75px;
